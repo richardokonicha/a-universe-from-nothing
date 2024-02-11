@@ -41,3 +41,7 @@ etc/kayobe/inventory/group_vars/seed/ansible-host
 
 # Ignore kolla configuration.
 etc/kolla
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
+.gitignore
